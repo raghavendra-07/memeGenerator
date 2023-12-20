@@ -137,7 +137,7 @@ class MemeGenerator extends Component {
             </CustomOption>
           ))}
         </CustomSelect>
-        <GenerateButton type="button">Generate</GenerateButton>
+        <GenerateButton type="submit">Generate</GenerateButton>
       </MemeGeneratorForm>
     )
   }
