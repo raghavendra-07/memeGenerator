@@ -1,4 +1,4 @@
-import MemeGenerator from './components/MemeGenerator'
+import MemeGenerator from './components/MemeGenerator/index'
 
 import './App.css'
 
